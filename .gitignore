@@ -15,3 +15,7 @@
 
 # VIM
 *.swp
+
+# govendor
+vendor/*
+!vendor/vendor.json
